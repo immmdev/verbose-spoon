@@ -48,5 +48,5 @@ int main(){
     if(cnt2>n/3) cout << el2 << " ";
 
     // time complexity o(2n)
-    // space complexity o(1) approx.
+    // space complexity o(1) approx. hi
 }
