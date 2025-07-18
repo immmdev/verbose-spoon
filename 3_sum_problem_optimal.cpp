@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int n;
-    cin >> n; // Size of array
+    cin >> n; //Size of array
     vector<int> nums(n); // Declare vector with size n
     vector<vector<int>> ans; // To store the result triplets
 
