@@ -30,5 +30,5 @@ int main()
     }
 
     cout << cnt << endl;
-
+    
 }
