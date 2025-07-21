@@ -31,5 +31,5 @@ int main(){
     }
 }
 
-// time complexity o(nlogn+n)
-// space complexity o(n)
+// Time Complexity O(nlogn+n)
+// Space Complexity O(n)
